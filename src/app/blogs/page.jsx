@@ -16,17 +16,17 @@ const Blogs = () => {
 
   return (
     <section className="container mx-auto py-16 px-8">
-      <h1 className="text-4xl font-bold text-center mb-12">Our Latest Blogs</h1>
+      <h1 className="text-4xl font-bold text-center mb-12 text-blue-600">Our Latest Blogs</h1>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-12">
         {blogs.map((blog) => (
           <Link key={blog.slugs} href={`/blogs/${blog.slugs}`}>
-            <div className="bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
+            <div className="bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 h-96">
               {/* Blog Image */}
               <img
                 src={blog.image}
                 alt={blog.title}
-                className="w-full h-48 object-cover"
+                className="w-full h-44 object-cover"
               />
               <div className="p-6">
                 {/* Category and Title */}
