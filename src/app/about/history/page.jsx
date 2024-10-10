@@ -32,9 +32,9 @@ const History = () => {
           </div>
         </div>
         <div className="text-center">
-          <Link href="/about/mission">
-            <button className="bg-blue-600 text-white px-6 py-3 rounded-md hover:bg-blue-700 transition duration-300">
-              Learn About Our Mission
+          <Link href="/about/history/vision">
+            <button className="bg-green-600 text-white px-6 py-3 rounded-md hover:bg-green-700 transition duration-300">
+              Our Vision
             </button>
           </Link>
         </div>

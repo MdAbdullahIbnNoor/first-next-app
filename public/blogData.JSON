@@ -1,0 +1,144 @@
+[
+    {
+      "slug": "enhancing-learning-through-technology",
+      "title": "Enhancing Learning through Technology",
+      "category": "Technology in Education",
+      "description": "Explore how technology is transforming education in our school, making learning more interactive and accessible.",
+      "image": "https://images.unsplash.com/photo-1596495577886-d920f9548c43?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1385&q=80"
+    },
+    {
+      "slug": "importance-of-extracurricular-activities",
+      "title": "The Importance of Extracurricular Activities",
+      "category": "Student Life",
+      "description": "Learn about how extracurricular activities shape well-rounded students and promote skills outside the classroom.",
+      "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "slug": "nurturing-creativity-in-students",
+      "title": "Nurturing Creativity in Students",
+      "category": "Creativity & Arts",
+      "description": "Discover how our school fosters creativity in students through various programs and arts initiatives.",
+      "image": "https://images.unsplash.com/photo-1555529771-3d0f02c7aa23?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1352&q=80"
+    },
+    {
+      "slug": "sustainable-school-initiatives",
+      "title": "Sustainable School Initiatives",
+      "category": "Environmental Responsibility",
+      "description": "Our commitment to sustainability is seen in our eco-friendly practices and student-led environmental initiatives.",
+      "image": "https://images.unsplash.com/photo-1506224774301-3f63c2bc3a45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "slug": "importance-of-mental-health-awareness",
+      "title": "Importance of Mental Health Awareness in Schools",
+      "category": "Student Well-being",
+      "description": "Understanding how schools can promote mental health awareness and provide support to students.",
+      "image": "https://images.unsplash.com/photo-1554774853-0b17469f5c4b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "slug": "how-physical-education-benefits-students",
+      "title": "How Physical Education Benefits Students",
+      "category": "Physical Education",
+      "description": "Physical education is essential for developing healthy habits and improving academic performance.",
+      "image": "https://images.unsplash.com/photo-1600932713604-1afaf5d91cbf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "slug": "importance-of-parent-teacher-collaboration",
+      "title": "The Importance of Parent-Teacher Collaboration",
+      "category": "Parent Involvement",
+      "description": "Building strong partnerships between parents and teachers to support student success in school.",
+      "image": "https://images.unsplash.com/photo-1585829368592-71709044aaf7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "slug": "modern-library-resources-for-students",
+      "title": "Modern Library Resources for Students",
+      "category": "Library Resources",
+      "description": "Our school's library provides students with access to modern digital resources and traditional books for learning.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "slug": "community-engagement-programs-in-school",
+      "title": "Community Engagement Programs in School",
+      "category": "Community Engagement",
+      "description": "Our students actively participate in community service programs to foster social responsibility.",
+      "image": "https://images.unsplash.com/photo-1556741533-f6acd6471e86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "slug": "the-role-of-technology-in-modern-education",
+      "title": "The Role of Technology in Modern Education",
+      "category": "Technology in Education",
+      "description": "How technology is revolutionizing modern education and enhancing student learning experiences.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "slug": "enhancing-learning-through-technology",
+      "title": "Enhancing Learning through Technology",
+      "category": "Technology in Education",
+      "description": "Explore how technology is transforming education in our school, making learning more interactive and accessible.",
+      "image": "https://images.unsplash.com/photo-1596495577886-d920f9548c43?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1385&q=80"
+    },
+    {
+      "slug": "importance-of-extracurricular-activities",
+      "title": "The Importance of Extracurricular Activities",
+      "category": "Student Life",
+      "description": "Learn about how extracurricular activities shape well-rounded students and promote skills outside the classroom.",
+      "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "slug": "nurturing-creativity-in-students",
+      "title": "Nurturing Creativity in Students",
+      "category": "Creativity & Arts",
+      "description": "Discover how our school fosters creativity in students through various programs and arts initiatives.",
+      "image": "https://images.unsplash.com/photo-1555529771-3d0f02c7aa23?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1352&q=80"
+    },
+    {
+      "slug": "sustainable-school-initiatives",
+      "title": "Sustainable School Initiatives",
+      "category": "Environmental Responsibility",
+      "description": "Our commitment to sustainability is seen in our eco-friendly practices and student-led environmental initiatives.",
+      "image": "https://images.unsplash.com/photo-1506224774301-3f63c2bc3a45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "slug": "importance-of-mental-health-awareness",
+      "title": "Importance of Mental Health Awareness in Schools",
+      "category": "Student Well-being",
+      "description": "Understanding how schools can promote mental health awareness and provide support to students.",
+      "image": "https://images.unsplash.com/photo-1554774853-0b17469f5c4b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "slug": "how-physical-education-benefits-students",
+      "title": "How Physical Education Benefits Students",
+      "category": "Physical Education",
+      "description": "Physical education is essential for developing healthy habits and improving academic performance.",
+      "image": "https://images.unsplash.com/photo-1600932713604-1afaf5d91cbf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "slug": "importance-of-parent-teacher-collaboration",
+      "title": "The Importance of Parent-Teacher Collaboration",
+      "category": "Parent Involvement",
+      "description": "Building strong partnerships between parents and teachers to support student success in school.",
+      "image": "https://images.unsplash.com/photo-1585829368592-71709044aaf7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "slug": "modern-library-resources-for-students",
+      "title": "Modern Library Resources for Students",
+      "category": "Library Resources",
+      "description": "Our school's library provides students with access to modern digital resources and traditional books for learning.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "slug": "community-engagement-programs-in-school",
+      "title": "Community Engagement Programs in School",
+      "category": "Community Engagement",
+      "description": "Our students actively participate in community service programs to foster social responsibility.",
+      "image": "https://images.unsplash.com/photo-1556741533-f6acd6471e86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "slug": "the-role-of-technology-in-modern-education",
+      "title": "The Role of Technology in Modern Education",
+      "category": "Technology in Education",
+      "description": "How technology is revolutionizing modern education and enhancing student learning experiences.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+    }
+  ]
+  
+  

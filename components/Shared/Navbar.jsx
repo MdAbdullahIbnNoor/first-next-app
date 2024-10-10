@@ -5,13 +5,14 @@ const Navbar = () => {
     const links = [
         { title: 'Home', path: '/' },
         { title: 'About Us', path: '/about' },
-        { title: 'Contact Us', path: '/contact' }
+        { title: 'Contact Us', path: '/contact' },
+        { title: 'Blogs', path: '/blogs' }
     ];
 
     return (
         <nav className="bg-blue-700 text-white p-8">
             <div className="container mx-auto flex justify-between items-center">
-                <div className="text-3xl font-bold">School Management System</div>
+                <div className="lg:text-2xl 2xl:text-3xl font-bold">My School</div>
                 <div>
                     <ul className="flex space-x-4">
                         {links.map((link) => (
