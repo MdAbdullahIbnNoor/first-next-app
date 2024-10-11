@@ -1,12 +1,16 @@
+"use client"
 import React from 'react';
-import Link from "next/link";
+import Link from 'next/link';
+
 
 const Navbar = () => {
+
     const links = [
         { title: 'Home', path: '/' },
         { title: 'About Us', path: '/about' },
         { title: 'Contact Us', path: '/contact' },
-        { title: 'Blogs', path: '/blogs' }
+        { title: 'Blogs', path: '/blogs' },
+        { title: 'Dashboard', path: '/dashboard' }
     ];
 
     return (
@@ -27,6 +31,7 @@ const Navbar = () => {
             </div>
         </nav>
     );
-}
+};
 
 export default Navbar;
+

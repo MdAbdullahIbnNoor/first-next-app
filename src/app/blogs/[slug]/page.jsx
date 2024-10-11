@@ -1,4 +1,4 @@
-'use client'; // This is a client-side component
+'use client';
 
 import React, { useEffect, useState } from 'react';
 import { FaRegBookmark, FaRegCalendarAlt, FaCommentAlt, FaThumbsUp, FaThumbsDown, FaUser, FaSpinner } from 'react-icons/fa';
