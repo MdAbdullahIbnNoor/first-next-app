@@ -45,7 +45,7 @@ const Blogs = () => {
                 <h2 className="text-xl font-bold text-gray-900 mb-4">{blog.title}</h2>
 
                 {/* Description */}
-                <p className="text-gray-600 mb-4">{blog.description}</p>
+                <p className="text-gray-600 mb-4 text-justify">{blog.description.split(' ').slice(0, 10).join(' ')}</p>
 
                 {/* Reading Time, Likes, Dislikes, and Comments */}
                 <div className="flex justify-between items-center text-gray-500 text-sm">

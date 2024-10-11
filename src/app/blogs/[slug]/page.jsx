@@ -3,25 +3,22 @@
 import React, { useEffect, useState } from 'react';
 import { FaRegBookmark, FaRegCalendarAlt, FaCommentAlt, FaThumbsUp, FaThumbsDown, FaUser, FaSpinner } from 'react-icons/fa';
 
-const BlogDetails = ({ params }) => {
+export default async function BlogDetails ({ params }){
   const { slug } = params;
   const [blog, setBlog] = useState(null);
 
-  useEffect(() => {
-    // Fetch the blog data
-    fetch('/blog_data.json')
-      .then((response) => response.json())
-      .then((data) => {
-        // Find the blog post that matches the slug
-        const blogPost = data.find((blog) => blog.slugs === slug);
-        setBlog(blogPost);
-      })
-      .catch((error) => console.error('Error fetching blog data:', error));
-  }, [slug]);
+  // Data fetching in Next Js
+  let data = await fetch('/blog_data.json')
+  const blogPost = data.find((blog) => blog.slugs === slug);
+  setBlog(blogPost)
+
 
   if (!blog) {
     return <span className="min-h-screen animate-spin text-center text-6xl flex items-center justify-center text-blue-600"><FaSpinner/></span>;
   }
+
+  const formattedDescription = blog.description.replace(/\n\n/g, '<br /><br />');
+
 
   return (
     <section className="container mx-auto py-16 px-8">
@@ -66,7 +63,7 @@ const BlogDetails = ({ params }) => {
 
         {/* Blog Content */}
         <h2 className="text-3xl font-bold text-gray-900 mb-4">Overview</h2>
-        <p className="text-lg text-gray-700 leading-relaxed">{blog.description}</p>
+        <p className="text-lg text-gray-700 leading-relaxed" dangerouslySetInnerHTML={{ __html: formattedDescription }}></p>
 
         {/* Tags */}
         <div className="flex flex-wrap gap-2 mt-8">
@@ -118,4 +115,3 @@ const BlogDetails = ({ params }) => {
   );
 };
 
-export default BlogDetails;
